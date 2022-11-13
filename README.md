@@ -8,6 +8,9 @@
 		<img height="180em"
 			src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurGini&layout=compact&langs_count=7&theme=dracula" />
 </div>
+<div align="center"><img
+		src="https://github.com/ArthurGini/ArthurGini/blob/de01785e6ba338285007f783b67d54a881bd94d8/github-contribution-grid-snake.svg" />
+</div>
 
 
 
@@ -35,7 +38,7 @@
 
 </div>
 <br>
-<!-- ![Snake animation](https://github.com/ArthurGini/ArthurGini/blob/output/github-contribution-grid-snake.svg) -->
+
 
 <div align="center">
 	<h1>Connect with me:</h1>
@@ -51,6 +54,10 @@
 		<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
 			alt=instagram style="margin-bottom: 5px;" />
 	</a>
+	<a href="arthurbgini@gmail.com" target="_blank">
+		<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+			alt=Gmail style="margin-bottom: 5px;" />
+	</a>
 	<!-- <a href="https://medium.com/arthurGini777" target="_blank">
 		<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white
 			alt=medium style="margin-bottom: 5px;" />
@@ -60,3 +67,5 @@
 <div align="center"><img
 		src="https://spotify-github-profile.vercel.app/api/view?uid=22wcemnt4k6zvx4tjlkcdjhmq&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </div>
+
+
