@@ -1,7 +1,7 @@
 <!-- ## Hi I'm Arthur Gini, Data Engineer and Musician ! -->
 
 <div align="center">
-	<h1>Hi I'm Arthur Gini, Data Engineer and Musician !</h1>
+	<h1>Hi I'm Arthur Gini, Data Engineer in BTG Pactual.</h1>
 	<a href="https://github.com/ArthurGini">
 		<img height="180em"
 			src="https://github-readme-stats.vercel.app/api?username=ArthurGini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -35,9 +35,7 @@
 
 </div>
 <br>
-<div align="center">
-	![Snake animation](https://github.com/ArthurGini/ArthurGini/blob/output/github-contribution-grid-snake.svg)
-</div>
+<!-- ![Snake animation](https://github.com/ArthurGini/ArthurGini/blob/output/github-contribution-grid-snake.svg) -->
 
 <div align="center">
 	<h1>Connect with me:</h1>
